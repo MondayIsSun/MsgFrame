@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MsgApp.iml" filepath="$PROJECT_DIR$/MsgApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_01/handler_01.iml" filepath="$PROJECT_DIR$/handler_01/handler_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_02/handler_02.iml" filepath="$PROJECT_DIR$/handler_02/handler_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_03/handler_03.iml" filepath="$PROJECT_DIR$/handler_03/handler_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_04/handler_04.iml" filepath="$PROJECT_DIR$/handler_04/handler_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_05/handler_05.iml" filepath="$PROJECT_DIR$/handler_05/handler_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_06/handler_06.iml" filepath="$PROJECT_DIR$/handler_06/handler_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_07/handler_07.iml" filepath="$PROJECT_DIR$/handler_07/handler_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_08/handler_08.iml" filepath="$PROJECT_DIR$/handler_08/handler_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_09/handler_09.iml" filepath="$PROJECT_DIR$/handler_09/handler_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerthread_01/handlerthread_01.iml" filepath="$PROJECT_DIR$/handlerthread_01/handlerthread_01.iml" />
+    </modules>
+  </component>
+</project>
